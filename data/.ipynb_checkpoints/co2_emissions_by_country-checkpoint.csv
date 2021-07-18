@@ -1,388 +1,388 @@
-country,subnational1,threshold,area_ha,extent_2000_ha,extent_2010_ha,abg_co2_stock_2000__Mg,whrc_aboveground_co2_emissions_Mg_2001,whrc_aboveground_co2_emissions_Mg_2002,whrc_aboveground_co2_emissions_Mg_2003,whrc_aboveground_co2_emissions_Mg_2004,whrc_aboveground_co2_emissions_Mg_2005,whrc_aboveground_co2_emissions_Mg_2006,whrc_aboveground_co2_emissions_Mg_2007,whrc_aboveground_co2_emissions_Mg_2008,whrc_aboveground_co2_emissions_Mg_2009,whrc_aboveground_co2_emissions_Mg_2010,whrc_aboveground_co2_emissions_Mg_2011,whrc_aboveground_co2_emissions_Mg_2012,whrc_aboveground_co2_emissions_Mg_2013,whrc_aboveground_co2_emissions_Mg_2014,whrc_aboveground_co2_emissions_Mg_2015,whrc_aboveground_co2_emissions_Mg_2016,whrc_aboveground_co2_emissions_Mg_2017,whrc_aboveground_co2_emissions_Mg_2018,whrc_aboveground_co2_emissions_Mg_2019,whrc_aboveground_co2_emissions_Mg_2020
-Afghanistan,Badakhshan,10,4369203,10553,1763,1774414,
-Afghanistan,Badakhshan,15,4369203,3074,914,548357,
-Afghanistan,Badakhshan,20,4369203,2088,826,376501,
-Afghanistan,Badakhshan,25,4369203,1229,474,224341,
-Afghanistan,Badakhshan,30,4369203,1054,417,193761,
-Afghanistan,Badakhshan,50,4369203,278,63,53867,
-Afghanistan,Badakhshan,75,4369203,27,6,6711,
-Afghanistan,Badghis,10,2058982,2507,87,459868,
-Afghanistan,Badghis,15,2058982,1736,66,327841,
-Afghanistan,Badghis,20,2058982,987,65,194288,
-Afghanistan,Badghis,25,2058982,886,38,176361,
-Afghanistan,Badghis,30,2058982,518,36,109425,
-Afghanistan,Badghis,50,2058982,336,18,73567,
-Afghanistan,Badghis,75,2058982,94,6,23338,
-Afghanistan,Baghlan,10,2112023,4541,86,724618,
-Afghanistan,Baghlan,15,2112023,1534,68,258129,
-Afghanistan,Baghlan,20,2112023,1019,66,173458,
-Afghanistan,Baghlan,25,2112023,865,35,148028,
-Afghanistan,Baghlan,30,2112023,316,33,56539,
-Afghanistan,Baghlan,50,2112023,136,9,26407,
-Afghanistan,Baghlan,75,2112023,27,2,5683,
-Afghanistan,Balkh,10,1725366,471,5,76795,
-Afghanistan,Balkh,15,1725366,90,1,16053,
-Afghanistan,Balkh,20,1725366,48,1,8592,
-Afghanistan,Balkh,25,1725366,30,0,5594,
-Afghanistan,Balkh,30,1725366,19,0,3865,
-Afghanistan,Balkh,50,1725366,10,0,1951,
-Afghanistan,Balkh,75,1725366,2,0,598,
-Afghanistan,Bamyan,10,1417349,775,1,128920,
-Afghanistan,Bamyan,15,1417349,10,1,2185,
-Afghanistan,Bamyan,20,1417349,8,1,1823,
-Afghanistan,Bamyan,25,1417349,8,1,1798,
-Afghanistan,Bamyan,30,1417349,8,1,1735,
-Afghanistan,Bamyan,50,1417349,6,0,1280,
-Afghanistan,Bamyan,75,1417349,3,0,650,
-Afghanistan,Daykundi,10,1790747,832,0,144904,
-Afghanistan,Daykundi,15,1790747,15,0,2839,
-Afghanistan,Daykundi,20,1790747,14,0,2660,
-Afghanistan,Daykundi,25,1790747,13,0,2542,
-Afghanistan,Daykundi,30,1790747,3,0,764,
-Afghanistan,Daykundi,50,1790747,1,0,225,
-Afghanistan,Daykundi,75,1790747,0,0,118,
-Afghanistan,Farah,10,4844251,16,0,2796,
-Afghanistan,Farah,15,4844251,0,0,0,
-Afghanistan,Farah,20,4844251,0,0,0,
-Afghanistan,Farah,25,4844251,0,0,0,
-Afghanistan,Farah,30,4844251,0,0,0,
-Afghanistan,Farah,50,4844251,0,0,0,
-Afghanistan,Farah,75,4844251,0,0,0,
-Afghanistan,Faryab,10,2029628,1471,56,268361,
-Afghanistan,Faryab,15,2029628,1104,42,206280,
-Afghanistan,Faryab,20,2029628,455,41,88473,
-Afghanistan,Faryab,25,2029628,396,30,78005,
-Afghanistan,Faryab,30,2029628,209,29,44084,
-Afghanistan,Faryab,50,2029628,122,15,27360,
-Afghanistan,Faryab,75,2029628,34,1,8806,
-Afghanistan,Ghazni,10,2291741,589,1,98083,
-Afghanistan,Ghazni,15,2291741,21,0,3596,
-Afghanistan,Ghazni,20,2291741,19,0,3281,
-Afghanistan,Ghazni,25,2291741,19,0,3281,
-Afghanistan,Ghazni,30,2291741,14,0,2399,
-Afghanistan,Ghazni,50,2291741,14,0,2301,
-Afghanistan,Ghazni,75,2291741,0,0,18,
-Afghanistan,Ghor,10,3646980,191,0,32657,
-Afghanistan,Ghor,15,3646980,5,0,1060,
-Afghanistan,Ghor,20,3646980,4,0,794,
-Afghanistan,Ghor,25,3646980,4,0,773,
-Afghanistan,Ghor,30,3646980,2,0,454,
-Afghanistan,Ghor,50,3646980,1,0,294,
-Afghanistan,Ghor,75,3646980,1,0,162,
-Afghanistan,Hilmand,10,5851496,3,0,566,
-Afghanistan,Hilmand,15,5851496,1,0,236,
-Afghanistan,Hilmand,20,5851496,1,0,236,
-Afghanistan,Hilmand,25,5851496,1,0,236,
-Afghanistan,Hilmand,30,5851496,1,0,236,
-Afghanistan,Hilmand,50,5851496,1,0,236,
-Afghanistan,Hilmand,75,5851496,0,0,0,
-Afghanistan,Hirat,10,5473766,448,0,75698,
-Afghanistan,Hirat,15,5473766,57,0,10163,
-Afghanistan,Hirat,20,5473766,24,0,4420,
-Afghanistan,Hirat,25,5473766,23,0,4323,
-Afghanistan,Hirat,30,5473766,5,0,1117,
-Afghanistan,Hirat,50,5473766,2,0,477,
-Afghanistan,Hirat,75,5473766,0,0,72,
-Afghanistan,Jawzjan,10,1180228,198,14,30991,
-Afghanistan,Jawzjan,15,1180228,59,9,9130,
-Afghanistan,Jawzjan,20,1180228,52,7,8088,
-Afghanistan,Jawzjan,25,1180228,51,3,7926,
-Afghanistan,Jawzjan,30,1180228,30,3,4710,
-Afghanistan,Jawzjan,50,1180228,18,0,2864,
-Afghanistan,Jawzjan,75,1180228,0,0,0,
-Afghanistan,Kabul,10,446460,1038,47,177004,
-Afghanistan,Kabul,15,446460,357,32,68460,
-Afghanistan,Kabul,20,446460,346,31,66586,
-Afghanistan,Kabul,25,446460,315,5,61306,
-Afghanistan,Kabul,30,446460,180,5,38015,
-Afghanistan,Kabul,50,446460,112,2,25229,
-Afghanistan,Kabul,75,446460,13,0,3668,
-Afghanistan,Kandahar,10,5351078,73,0,12315,
-Afghanistan,Kandahar,15,5351078,2,0,371,
-Afghanistan,Kandahar,20,5351078,2,0,371,
-Afghanistan,Kandahar,25,5351078,2,0,371,
-Afghanistan,Kandahar,30,5351078,0,0,0,
-Afghanistan,Kandahar,50,5351078,0,0,0,
-Afghanistan,Kandahar,75,5351078,0,0,0,
-Afghanistan,Kapisa,10,190709,3473,8,562858,
-Afghanistan,Kapisa,15,190709,368,3,65777,
-Afghanistan,Kapisa,20,190709,338,3,60765,
-Afghanistan,Kapisa,25,190709,322,0,58047,
-Afghanistan,Kapisa,30,190709,140,0,27082,
-Afghanistan,Kapisa,50,190709,83,0,16720,
-Afghanistan,Kapisa,75,190709,3,0,763,
-Afghanistan,Khost,10,402239,20204,1342,3677908,
-Afghanistan,Khost,15,402239,12956,813,2482847,
-Afghanistan,Khost,20,402239,11180,796,2173374,
-Afghanistan,Khost,25,402239,10309,174,2023025,
-Afghanistan,Khost,30,402239,6411,174,1324219,
-Afghanistan,Khost,50,402239,3067,53,687684,
-Afghanistan,Khost,75,402239,632,1,157047,
-Afghanistan,Kunar,10,489024,184923,77632,39541704,
-Afghanistan,Kunar,15,489024,148279,67889,33787902,
-Afghanistan,Kunar,20,489024,143258,67316,32945987,
-Afghanistan,Kunar,25,489024,127214,48776,30268840,
-Afghanistan,Kunar,30,489024,110514,48554,27417209,
-Afghanistan,Kunar,50,489024,84234,32810,22637758,
-Afghanistan,Kunar,75,489024,47408,14142,14033633,
-Afghanistan,Kunduz,10,804241,5204,2188,913570,
-Afghanistan,Kunduz,15,804241,4503,1898,801839,
-Afghanistan,Kunduz,20,804241,4181,1855,752513,
-Afghanistan,Kunduz,25,804241,3968,1575,719691,
-Afghanistan,Kunduz,30,804241,3627,1503,665617,
-Afghanistan,Kunduz,50,804241,2179,885,436456,
-Afghanistan,Kunduz,75,804241,1066,450,225345,
-Afghanistan,Laghman,10,384213,31627,7997,5889227,
-Afghanistan,Laghman,15,384213,21643,5664,4350432,
-Afghanistan,Laghman,20,384213,20846,5538,4219277,
-Afghanistan,Laghman,25,384213,18152,2620,3780173,
-Afghanistan,Laghman,30,384213,13781,2591,3049071,
-Afghanistan,Laghman,50,384213,9335,838,2248271,
-Afghanistan,Laghman,75,384213,3812,68,1050551,
-Afghanistan,Logar,10,386945,179,0,28955,
-Afghanistan,Logar,15,386945,1,0,233,
-Afghanistan,Logar,20,386945,1,0,233,
-Afghanistan,Logar,25,386945,1,0,233,
-Afghanistan,Logar,30,386945,1,0,222,
-Afghanistan,Logar,50,386945,0,0,139,
-Afghanistan,Logar,75,386945,0,0,139,
-Afghanistan,Nangarhar,10,746831,26007,5689,4720488,
-Afghanistan,Nangarhar,15,746831,18052,4623,3533776,
-Afghanistan,Nangarhar,20,746831,16659,4559,3314056,
-Afghanistan,Nangarhar,25,746831,14991,3062,3045061,
-Afghanistan,Nangarhar,30,746831,11417,3012,2469339,
-Afghanistan,Nangarhar,50,746831,7088,1456,1718370,
-Afghanistan,Nangarhar,75,746831,2706,441,774498,
-Afghanistan,Nimroz,10,4096747,0,0,0,
-Afghanistan,Nimroz,15,4096747,0,0,0,
-Afghanistan,Nimroz,20,4096747,0,0,0,
-Afghanistan,Nimroz,25,4096747,0,0,0,
-Afghanistan,Nimroz,30,4096747,0,0,0,
-Afghanistan,Nimroz,50,4096747,0,0,0,
-Afghanistan,Nimroz,75,4096747,0,0,0,
-Afghanistan,Nuristan,10,922519,95344,24904,18386980,
-Afghanistan,Nuristan,15,922519,69091,21329,14501321,
-Afghanistan,Nuristan,20,922519,65916,21172,13996653,
-Afghanistan,Nuristan,25,922519,60310,13217,13117283,
-Afghanistan,Nuristan,30,922519,48404,13139,11173152,
-Afghanistan,Nuristan,50,922519,36426,8801,9059646,
-Afghanistan,Nuristan,75,922519,18110,2681,5083577,
-Afghanistan,Paktika,10,1906166,5583,316,989704,
-Afghanistan,Paktika,15,1906166,3100,244,580503,
-Afghanistan,Paktika,20,1906166,2771,239,521707,
-Afghanistan,Paktika,25,1906166,2643,49,499348,
-Afghanistan,Paktika,30,1906166,1111,49,223999,
-Afghanistan,Paktika,50,1906166,464,11,101046,
-Afghanistan,Paktika,75,1906166,43,0,11559,
-Afghanistan,Paktya,10,642942,20397,1260,3530421,
-Afghanistan,Paktya,15,642942,11482,769,2117125,
-Afghanistan,Paktya,20,642942,9699,755,1813047,
-Afghanistan,Paktya,25,642942,8995,194,1696025,
-Afghanistan,Paktya,30,642942,4400,194,898399,
-Afghanistan,Paktya,50,642942,2104,78,468639,
-Afghanistan,Paktya,75,642942,309,0,79700,
-Afghanistan,Panjshir,10,363539,491,4,69610,
-Afghanistan,Panjshir,15,363539,26,4,4055,
-Afghanistan,Panjshir,20,363539,22,3,3422,
-Afghanistan,Panjshir,25,363539,20,2,3112,
-Afghanistan,Panjshir,30,363539,15,2,2394,
-Afghanistan,Panjshir,50,363539,8,0,1429,
-Afghanistan,Panjshir,75,363539,2,0,470,
-Afghanistan,Parwan,10,588922,3879,13,626708,
-Afghanistan,Parwan,15,588922,82,12,13831,
-Afghanistan,Parwan,20,588922,51,12,8595,
-Afghanistan,Parwan,25,588922,46,5,7836,
-Afghanistan,Parwan,30,588922,20,5,3475,
-Afghanistan,Parwan,50,588922,9,0,1690,
-Afghanistan,Parwan,75,588922,3,0,704,
-Afghanistan,Samangan,10,1126347,421,12,77230,
-Afghanistan,Samangan,15,1126347,275,11,53985,
-Afghanistan,Samangan,20,1126347,158,11,33649,
-Afghanistan,Samangan,25,1126347,152,9,32598,
-Afghanistan,Samangan,30,1126347,137,9,29963,
-Afghanistan,Samangan,50,1126347,81,3,18628,
-Afghanistan,Samangan,75,1126347,35,0,8527,
-Afghanistan,Sari Pul,10,1600069,994,202,178674,
-Afghanistan,Sari Pul,15,1600069,630,165,117474,
-Afghanistan,Sari Pul,20,1600069,421,162,79965,
-Afghanistan,Sari Pul,25,1600069,333,144,64658,
-Afghanistan,Sari Pul,30,1600069,207,137,42377,
-Afghanistan,Sari Pul,50,1600069,101,24,22493,
-Afghanistan,Sari Pul,75,1600069,30,2,7503,
-Afghanistan,Takhar,10,1233684,7602,2616,1326030,
-Afghanistan,Takhar,15,1233684,4092,2311,759161,
-Afghanistan,Takhar,20,1233684,3776,2272,710154,
-Afghanistan,Takhar,25,1233684,3557,1980,676424,
-Afghanistan,Takhar,30,1233684,3245,1903,625444,
-Afghanistan,Takhar,50,1233684,2213,1174,459869,
-Afghanistan,Takhar,75,1233684,1126,471,251060,
-Afghanistan,Uruzgan,10,1286394,574,0,98171,
-Afghanistan,Uruzgan,15,1286394,1,0,125,
-Afghanistan,Uruzgan,20,1286394,1,0,125,
-Afghanistan,Uruzgan,25,1286394,1,0,125,
-Afghanistan,Uruzgan,30,1286394,0,0,109,
-Afghanistan,Uruzgan,50,1286394,0,0,64,
-Afghanistan,Uruzgan,75,1286394,0,0,0,
-Afghanistan,Wardak,10,892321,1273,1,208541,
-Afghanistan,Wardak,15,892321,13,0,2267,
-Afghanistan,Wardak,20,892321,10,0,1785,
-Afghanistan,Wardak,25,892321,10,0,1732,
-Afghanistan,Wardak,30,892321,3,0,480,
-Afghanistan,Wardak,50,892321,2,0,274,
-Afghanistan,Wardak,75,892321,0,0,50,
-Afghanistan,Zabul,10,1732567,231,0,40159,
-Afghanistan,Zabul,15,1732567,0,0,22,
-Afghanistan,Zabul,20,1732567,0,0,0,
-Afghanistan,Zabul,25,1732567,0,0,0,
-Afghanistan,Zabul,30,1732567,0,0,0,
-Afghanistan,Zabul,50,1732567,0,0,0,
-Afghanistan,Zabul,75,1732567,0,0,0,
-Akrotiri and Dhekelia,Akrotiri,10,10918,1156,535,184547,
-Akrotiri and Dhekelia,Akrotiri,15,10918,818,435,132995,
-Akrotiri and Dhekelia,Akrotiri,20,10918,708,413,116871,
-Akrotiri and Dhekelia,Akrotiri,25,10918,475,390,81216,
-Akrotiri and Dhekelia,Akrotiri,30,10918,415,365,72613,
-Akrotiri and Dhekelia,Akrotiri,50,10918,304,227,56697,
-Akrotiri and Dhekelia,Akrotiri,75,10918,166,132,33768,
-Akrotiri and Dhekelia,Dhekelia,10,12530,60,28,10418,
-Akrotiri and Dhekelia,Dhekelia,15,12530,57,23,9832,
-Akrotiri and Dhekelia,Dhekelia,20,12530,52,23,9030,
-Akrotiri and Dhekelia,Dhekelia,25,12530,48,21,8584,
-Akrotiri and Dhekelia,Dhekelia,30,12530,41,18,7465,
-Akrotiri and Dhekelia,Dhekelia,50,12530,32,11,6169,
-Akrotiri and Dhekelia,Dhekelia,75,12530,19,4,3830,
-Albania,Berat,10,181584,54179,46361,10091008,
-Albania,Berat,15,181584,50266,42322,9706600,
-Albania,Berat,20,181584,48572,41711,9524237,
-Albania,Berat,25,181584,45001,40359,9149971,
-Albania,Berat,30,181584,39874,38276,8617521,
-Albania,Berat,50,181584,32147,27525,7673853,
-Albania,Berat,75,181584,20906,13320,5602070,
-Albania,Dibër,10,261413,93926,77367,22505921,
-Albania,Dibër,15,261413,87092,71971,21713800,
-Albania,Dibër,20,261413,84918,70740,21456279,
-Albania,Dibër,25,261413,81139,68666,21033909,
-Albania,Dibër,30,261413,76530,65421,20524387,
-Albania,Dibër,50,261413,64426,50457,18916709,
-Albania,Dibër,75,261413,44073,22542,14675661,
-Albania,Durrës,10,77971,14697,14293,2355650,
-Albania,Durrës,15,77971,13701,12969,2264451,
-Albania,Durrës,20,77971,13225,12721,2221333,
-Albania,Durrës,25,77971,12396,12405,2146120,
-Albania,Durrës,30,77971,11392,11684,2057811,
-Albania,Durrës,50,77971,9345,7543,1842864,
-Albania,Durrës,75,77971,5941,2436,1308291,
-Albania,Elbasan,10,316736,105515,86040,22333124,
-Albania,Elbasan,15,316736,97192,78451,21505622,
-Albania,Elbasan,20,316736,94072,76989,21156399,
-Albania,Elbasan,25,316736,86525,74275,20367757,
-Albania,Elbasan,30,316736,77432,70211,19447526,
-Albania,Elbasan,50,316736,62558,50176,17607612,
-Albania,Elbasan,75,316736,42090,19365,13634951,
-Albania,Fier,10,187590,16904,18397,2705259,
-Albania,Fier,15,187590,15597,16287,2575810,
-Albania,Fier,20,187590,14907,16013,2503886,
-Albania,Fier,25,187590,13284,15489,2338242,
-Albania,Fier,30,187590,11528,14462,2153546,
-Albania,Fier,50,187590,8912,10221,1838949,
-Albania,Fier,75,187590,5232,5164,1192162,
-Albania,Gjirokastër,10,289766,69341,57852,12971172,
-Albania,Gjirokastër,15,289766,64196,52211,12423198,
-Albania,Gjirokastër,20,289766,62140,51305,12195812,
-Albania,Gjirokastër,25,289766,58134,49641,11750093,
-Albania,Gjirokastër,30,289766,52336,46795,11108784,
-Albania,Gjirokastër,50,289766,41975,32071,9783786,
-Albania,Gjirokastër,75,289766,28271,11579,7318287,
-Albania,Korçë,10,372261,101071,78523,23495175,
-Albania,Korçë,15,372261,92229,71428,22408414,
-Albania,Korçë,20,372261,88910,70073,21986703,
-Albania,Korçë,25,372261,83646,66892,21314793,
-Albania,Korçë,30,372261,78182,63335,20636316,
-Albania,Korçë,50,372261,64341,45907,18684433,
-Albania,Korçë,75,372261,43361,17434,14359329,
-Albania,Kukës,10,240895,87731,72654,20517855,
-Albania,Kukës,15,240895,80349,67583,19726111,
-Albania,Kukës,20,240895,78285,66451,19501400,
-Albania,Kukës,25,240895,75206,64500,19176900,
-Albania,Kukës,30,240895,70601,61443,18680674,
-Albania,Kukës,50,240895,59963,48374,17351575,
-Albania,Kukës,75,240895,42079,24307,13849640,
-Albania,Lezhë,10,166503,69315,58702,12867515,
-Albania,Lezhë,15,166503,64501,53327,12396571,
-Albania,Lezhë,20,166503,62352,52287,12174109,
-Albania,Lezhë,25,166503,57528,50522,11688519,
-Albania,Lezhë,30,166503,51793,47776,11095023,
-Albania,Lezhë,50,166503,41606,31127,9909148,
-Albania,Lezhë,75,166503,27580,11029,7327719,
-Albania,Shkodër,10,350539,135144,119594,33164151,
-Albania,Shkodër,15,350539,127100,111111,32231748,
-Albania,Shkodër,20,350539,123624,109169,31813390,
-Albania,Shkodër,25,350539,117368,105938,31075029,
-Albania,Shkodër,30,350539,110103,101500,30216303,
-Albania,Shkodër,50,350539,93437,77486,27979768,
-Albania,Shkodër,75,350539,66458,42408,22537892,
-Albania,Tiranë,10,163689,43145,39677,8527464,
-Albania,Tiranë,15,163689,40425,36584,8276967,
-Albania,Tiranë,20,163689,39223,35985,8161185,
-Albania,Tiranë,25,163689,36685,35173,7925431,
-Albania,Tiranë,30,163689,33367,33165,7615321,
-Albania,Tiranë,50,163689,28279,23855,7046424,
-Albania,Tiranë,75,163689,19206,9972,5457982,
-Albania,Vlorë,10,264589,47946,43347,9014666,
-Albania,Vlorë,15,264589,44234,39141,8620929,
-Albania,Vlorë,20,264589,42863,38453,8468962,
-Albania,Vlorë,25,264589,39738,37272,8131617,
-Albania,Vlorë,30,264589,35543,34949,7666093,
-Albania,Vlorë,50,264589,27859,24091,6672253,
-Albania,Vlorë,75,264589,18629,11252,4960005,
-Algeria,Adrar,10,26936815,0,0,0,
-Algeria,Adrar,15,26936815,0,0,0,
-Algeria,Adrar,20,26936815,0,0,0,
-Algeria,Adrar,25,26936815,0,0,0,
-Algeria,Adrar,30,26936815,0,0,0,
-Algeria,Adrar,50,26936815,0,0,0,
-Algeria,Adrar,75,26936815,0,0,0,
-Algeria,Alger,10,76916,4577,3504,722674,
-Algeria,Alger,15,76916,4055,3252,652164,
-Algeria,Alger,20,76916,3737,3184,607903,
-Algeria,Alger,25,76916,3395,2785,560499,
-Algeria,Alger,30,76916,3234,2699,538128,
-Algeria,Alger,50,76916,1962,1447,362224,
-Algeria,Alger,75,76916,715,666,153285,
-Algeria,Annaba,10,141162,58531,55344,11666793,
-Algeria,Annaba,15,141162,56102,52555,11276803,
-Algeria,Annaba,20,141162,54493,52221,11026539,
-Algeria,Annaba,25,141162,52928,51098,10781985,
-Algeria,Annaba,30,141162,50383,49031,10389430,
-Algeria,Annaba,50,141162,40126,35887,8800491,
-Algeria,Annaba,75,141162,23183,18842,5510292,
-Algeria,Aïn Defla,10,454705,90671,40547,16621202,
-Algeria,Aïn Defla,15,454705,77090,35288,14300757,
-Algeria,Aïn Defla,20,454705,74087,34644,13780902,
-Algeria,Aïn Defla,25,454705,66410,25695,12380957,
-Algeria,Aïn Defla,30,454705,62056,24668,11609891,
-Algeria,Aïn Defla,50,454705,37531,13901,7497672,
-Algeria,Aïn Defla,75,454705,16477,6883,3611850,
-Algeria,Aïn Témouchent,10,240162,4448,1733,682936,
-Algeria,Aïn Témouchent,15,240162,3476,1342,544208,
-Algeria,Aïn Témouchent,20,240162,3149,1243,496100,
-Algeria,Aïn Témouchent,25,240162,2049,715,331848,
-Algeria,Aïn Témouchent,30,240162,1897,681,309068,
-Algeria,Aïn Témouchent,50,240162,826,191,148463,
-Algeria,Aïn Témouchent,75,240162,195,42,38888,
-Algeria,Batna,10,1213853,35829,6255,7960576,
-Algeria,Batna,15,1213853,22209,5076,5123928,
-Algeria,Batna,20,1213853,20486,4878,4747263,
-Algeria,Batna,25,1213853,19580,2015,4548282,
-Algeria,Batna,30,1213853,15320,1921,3587852,
-Algeria,Batna,50,1213853,9195,570,2126306,
-Algeria,Batna,75,1213853,3942,86,900436,
-Algeria,Biskra,10,2150052,339,8,70830,
-Algeria,Biskra,15,2150052,137,1,29397,
-Algeria,Biskra,20,2150052,96,0,20489,
-Algeria,Biskra,25,2150052,93,0,19720,
-Algeria,Biskra,30,2150052,35,0,6161,
-Algeria,Biskra,50,2150052,1,0,89,										
+country	subnational1	threshold	area_ha	extent_2000_ha	extent_2010_ha	abg_co2_stock_2000__Mg	whrc_aboveground_co2_emissions_Mg_2001	whrc_aboveground_co2_emissions_Mg_2002	whrc_aboveground_co2_emissions_Mg_2003	whrc_aboveground_co2_emissions_Mg_2004	whrc_aboveground_co2_emissions_Mg_2005	whrc_aboveground_co2_emissions_Mg_2006	whrc_aboveground_co2_emissions_Mg_2007	whrc_aboveground_co2_emissions_Mg_2008	whrc_aboveground_co2_emissions_Mg_2009	whrc_aboveground_co2_emissions_Mg_2010	whrc_aboveground_co2_emissions_Mg_2011	whrc_aboveground_co2_emissions_Mg_2012	whrc_aboveground_co2_emissions_Mg_2013	whrc_aboveground_co2_emissions_Mg_2014	whrc_aboveground_co2_emissions_Mg_2015	whrc_aboveground_co2_emissions_Mg_2016	whrc_aboveground_co2_emissions_Mg_2017	whrc_aboveground_co2_emissions_Mg_2018	whrc_aboveground_co2_emissions_Mg_2019	whrc_aboveground_co2_emissions_Mg_2020
+Afghanistan	Badakhshan	10	4369203	10553	1763	1774414																				
+Afghanistan	Badakhshan	15	4369203	3074	914	548357																				
+Afghanistan	Badakhshan	20	4369203	2088	826	376501																				
+Afghanistan	Badakhshan	25	4369203	1229	474	224341																				
+Afghanistan	Badakhshan	30	4369203	1054	417	193761																				
+Afghanistan	Badakhshan	50	4369203	278	63	53867																				
+Afghanistan	Badakhshan	75	4369203	27	6	6711																				
+Afghanistan	Badghis	10	2058982	2507	87	459868																				
+Afghanistan	Badghis	15	2058982	1736	66	327841																				
+Afghanistan	Badghis	20	2058982	987	65	194288																				
+Afghanistan	Badghis	25	2058982	886	38	176361																				
+Afghanistan	Badghis	30	2058982	518	36	109425																				
+Afghanistan	Badghis	50	2058982	336	18	73567																				
+Afghanistan	Badghis	75	2058982	94	6	23338																				
+Afghanistan	Baghlan	10	2112023	4541	86	724618																				
+Afghanistan	Baghlan	15	2112023	1534	68	258129																				
+Afghanistan	Baghlan	20	2112023	1019	66	173458																				
+Afghanistan	Baghlan	25	2112023	865	35	148028																				
+Afghanistan	Baghlan	30	2112023	316	33	56539																				
+Afghanistan	Baghlan	50	2112023	136	9	26407																				
+Afghanistan	Baghlan	75	2112023	27	2	5683																				
+Afghanistan	Balkh	10	1725366	471	5	76795																				
+Afghanistan	Balkh	15	1725366	90	1	16053																				
+Afghanistan	Balkh	20	1725366	48	1	8592																				
+Afghanistan	Balkh	25	1725366	30	0	5594																				
+Afghanistan	Balkh	30	1725366	19	0	3865																				
+Afghanistan	Balkh	50	1725366	10	0	1951																				
+Afghanistan	Balkh	75	1725366	2	0	598																				
+Afghanistan	Bamyan	10	1417349	775	1	128920																				
+Afghanistan	Bamyan	15	1417349	10	1	2185																				
+Afghanistan	Bamyan	20	1417349	8	1	1823																				
+Afghanistan	Bamyan	25	1417349	8	1	1798																				
+Afghanistan	Bamyan	30	1417349	8	1	1735																				
+Afghanistan	Bamyan	50	1417349	6	0	1280																				
+Afghanistan	Bamyan	75	1417349	3	0	650																				
+Afghanistan	Daykundi	10	1790747	832	0	144904																				
+Afghanistan	Daykundi	15	1790747	15	0	2839																				
+Afghanistan	Daykundi	20	1790747	14	0	2660																				
+Afghanistan	Daykundi	25	1790747	13	0	2542																				
+Afghanistan	Daykundi	30	1790747	3	0	764																				
+Afghanistan	Daykundi	50	1790747	1	0	225																				
+Afghanistan	Daykundi	75	1790747	0	0	118																				
+Afghanistan	Farah	10	4844251	16	0	2796																				
+Afghanistan	Farah	15	4844251	0	0	0																				
+Afghanistan	Farah	20	4844251	0	0	0																				
+Afghanistan	Farah	25	4844251	0	0	0																				
+Afghanistan	Farah	30	4844251	0	0	0																				
+Afghanistan	Farah	50	4844251	0	0	0																				
+Afghanistan	Farah	75	4844251	0	0	0																				
+Afghanistan	Faryab	10	2029628	1471	56	268361																				
+Afghanistan	Faryab	15	2029628	1104	42	206280																				
+Afghanistan	Faryab	20	2029628	455	41	88473																				
+Afghanistan	Faryab	25	2029628	396	30	78005																				
+Afghanistan	Faryab	30	2029628	209	29	44084																				
+Afghanistan	Faryab	50	2029628	122	15	27360																				
+Afghanistan	Faryab	75	2029628	34	1	8806																				
+Afghanistan	Ghazni	10	2291741	589	1	98083																				
+Afghanistan	Ghazni	15	2291741	21	0	3596																				
+Afghanistan	Ghazni	20	2291741	19	0	3281																				
+Afghanistan	Ghazni	25	2291741	19	0	3281																				
+Afghanistan	Ghazni	30	2291741	14	0	2399																				
+Afghanistan	Ghazni	50	2291741	14	0	2301																				
+Afghanistan	Ghazni	75	2291741	0	0	18																				
+Afghanistan	Ghor	10	3646980	191	0	32657																				
+Afghanistan	Ghor	15	3646980	5	0	1060																				
+Afghanistan	Ghor	20	3646980	4	0	794																				
+Afghanistan	Ghor	25	3646980	4	0	773																				
+Afghanistan	Ghor	30	3646980	2	0	454																				
+Afghanistan	Ghor	50	3646980	1	0	294																				
+Afghanistan	Ghor	75	3646980	1	0	162																				
+Afghanistan	Hilmand	10	5851496	3	0	566																				
+Afghanistan	Hilmand	15	5851496	1	0	236																				
+Afghanistan	Hilmand	20	5851496	1	0	236																				
+Afghanistan	Hilmand	25	5851496	1	0	236																				
+Afghanistan	Hilmand	30	5851496	1	0	236																				
+Afghanistan	Hilmand	50	5851496	1	0	236																				
+Afghanistan	Hilmand	75	5851496	0	0	0																				
+Afghanistan	Hirat	10	5473766	448	0	75698																				
+Afghanistan	Hirat	15	5473766	57	0	10163																				
+Afghanistan	Hirat	20	5473766	24	0	4420																				
+Afghanistan	Hirat	25	5473766	23	0	4323																				
+Afghanistan	Hirat	30	5473766	5	0	1117																				
+Afghanistan	Hirat	50	5473766	2	0	477																				
+Afghanistan	Hirat	75	5473766	0	0	72																				
+Afghanistan	Jawzjan	10	1180228	198	14	30991																				
+Afghanistan	Jawzjan	15	1180228	59	9	9130																				
+Afghanistan	Jawzjan	20	1180228	52	7	8088																				
+Afghanistan	Jawzjan	25	1180228	51	3	7926																				
+Afghanistan	Jawzjan	30	1180228	30	3	4710																				
+Afghanistan	Jawzjan	50	1180228	18	0	2864																				
+Afghanistan	Jawzjan	75	1180228	0	0	0																				
+Afghanistan	Kabul	10	446460	1038	47	177004																				
+Afghanistan	Kabul	15	446460	357	32	68460																				
+Afghanistan	Kabul	20	446460	346	31	66586																				
+Afghanistan	Kabul	25	446460	315	5	61306																				
+Afghanistan	Kabul	30	446460	180	5	38015																				
+Afghanistan	Kabul	50	446460	112	2	25229																				
+Afghanistan	Kabul	75	446460	13	0	3668																				
+Afghanistan	Kandahar	10	5351078	73	0	12315																				
+Afghanistan	Kandahar	15	5351078	2	0	371																				
+Afghanistan	Kandahar	20	5351078	2	0	371																				
+Afghanistan	Kandahar	25	5351078	2	0	371																				
+Afghanistan	Kandahar	30	5351078	0	0	0																				
+Afghanistan	Kandahar	50	5351078	0	0	0																				
+Afghanistan	Kandahar	75	5351078	0	0	0																				
+Afghanistan	Kapisa	10	190709	3473	8	562858																				
+Afghanistan	Kapisa	15	190709	368	3	65777																				
+Afghanistan	Kapisa	20	190709	338	3	60765																				
+Afghanistan	Kapisa	25	190709	322	0	58047																				
+Afghanistan	Kapisa	30	190709	140	0	27082																				
+Afghanistan	Kapisa	50	190709	83	0	16720																				
+Afghanistan	Kapisa	75	190709	3	0	763																				
+Afghanistan	Khost	10	402239	20204	1342	3677908																				
+Afghanistan	Khost	15	402239	12956	813	2482847																				
+Afghanistan	Khost	20	402239	11180	796	2173374																				
+Afghanistan	Khost	25	402239	10309	174	2023025																				
+Afghanistan	Khost	30	402239	6411	174	1324219																				
+Afghanistan	Khost	50	402239	3067	53	687684																				
+Afghanistan	Khost	75	402239	632	1	157047																				
+Afghanistan	Kunar	10	489024	184923	77632	39541704																				
+Afghanistan	Kunar	15	489024	148279	67889	33787902																				
+Afghanistan	Kunar	20	489024	143258	67316	32945987																				
+Afghanistan	Kunar	25	489024	127214	48776	30268840																				
+Afghanistan	Kunar	30	489024	110514	48554	27417209																				
+Afghanistan	Kunar	50	489024	84234	32810	22637758																				
+Afghanistan	Kunar	75	489024	47408	14142	14033633																				
+Afghanistan	Kunduz	10	804241	5204	2188	913570																				
+Afghanistan	Kunduz	15	804241	4503	1898	801839																				
+Afghanistan	Kunduz	20	804241	4181	1855	752513																				
+Afghanistan	Kunduz	25	804241	3968	1575	719691																				
+Afghanistan	Kunduz	30	804241	3627	1503	665617																				
+Afghanistan	Kunduz	50	804241	2179	885	436456																				
+Afghanistan	Kunduz	75	804241	1066	450	225345																				
+Afghanistan	Laghman	10	384213	31627	7997	5889227																				
+Afghanistan	Laghman	15	384213	21643	5664	4350432																				
+Afghanistan	Laghman	20	384213	20846	5538	4219277																				
+Afghanistan	Laghman	25	384213	18152	2620	3780173																				
+Afghanistan	Laghman	30	384213	13781	2591	3049071																				
+Afghanistan	Laghman	50	384213	9335	838	2248271																				
+Afghanistan	Laghman	75	384213	3812	68	1050551																				
+Afghanistan	Logar	10	386945	179	0	28955																				
+Afghanistan	Logar	15	386945	1	0	233																				
+Afghanistan	Logar	20	386945	1	0	233																				
+Afghanistan	Logar	25	386945	1	0	233																				
+Afghanistan	Logar	30	386945	1	0	222																				
+Afghanistan	Logar	50	386945	0	0	139																				
+Afghanistan	Logar	75	386945	0	0	139																				
+Afghanistan	Nangarhar	10	746831	26007	5689	4720488																				
+Afghanistan	Nangarhar	15	746831	18052	4623	3533776																				
+Afghanistan	Nangarhar	20	746831	16659	4559	3314056																				
+Afghanistan	Nangarhar	25	746831	14991	3062	3045061																				
+Afghanistan	Nangarhar	30	746831	11417	3012	2469339																				
+Afghanistan	Nangarhar	50	746831	7088	1456	1718370																				
+Afghanistan	Nangarhar	75	746831	2706	441	774498																				
+Afghanistan	Nimroz	10	4096747	0	0	0																				
+Afghanistan	Nimroz	15	4096747	0	0	0																				
+Afghanistan	Nimroz	20	4096747	0	0	0																				
+Afghanistan	Nimroz	25	4096747	0	0	0																				
+Afghanistan	Nimroz	30	4096747	0	0	0																				
+Afghanistan	Nimroz	50	4096747	0	0	0																				
+Afghanistan	Nimroz	75	4096747	0	0	0																				
+Afghanistan	Nuristan	10	922519	95344	24904	18386980																				
+Afghanistan	Nuristan	15	922519	69091	21329	14501321																				
+Afghanistan	Nuristan	20	922519	65916	21172	13996653																				
+Afghanistan	Nuristan	25	922519	60310	13217	13117283																				
+Afghanistan	Nuristan	30	922519	48404	13139	11173152																				
+Afghanistan	Nuristan	50	922519	36426	8801	9059646																				
+Afghanistan	Nuristan	75	922519	18110	2681	5083577																				
+Afghanistan	Paktika	10	1906166	5583	316	989704																				
+Afghanistan	Paktika	15	1906166	3100	244	580503																				
+Afghanistan	Paktika	20	1906166	2771	239	521707																				
+Afghanistan	Paktika	25	1906166	2643	49	499348																				
+Afghanistan	Paktika	30	1906166	1111	49	223999																				
+Afghanistan	Paktika	50	1906166	464	11	101046																				
+Afghanistan	Paktika	75	1906166	43	0	11559																				
+Afghanistan	Paktya	10	642942	20397	1260	3530421																				
+Afghanistan	Paktya	15	642942	11482	769	2117125																				
+Afghanistan	Paktya	20	642942	9699	755	1813047																				
+Afghanistan	Paktya	25	642942	8995	194	1696025																				
+Afghanistan	Paktya	30	642942	4400	194	898399																				
+Afghanistan	Paktya	50	642942	2104	78	468639																				
+Afghanistan	Paktya	75	642942	309	0	79700																				
+Afghanistan	Panjshir	10	363539	491	4	69610																				
+Afghanistan	Panjshir	15	363539	26	4	4055																				
+Afghanistan	Panjshir	20	363539	22	3	3422																				
+Afghanistan	Panjshir	25	363539	20	2	3112																				
+Afghanistan	Panjshir	30	363539	15	2	2394																				
+Afghanistan	Panjshir	50	363539	8	0	1429																				
+Afghanistan	Panjshir	75	363539	2	0	470																				
+Afghanistan	Parwan	10	588922	3879	13	626708																				
+Afghanistan	Parwan	15	588922	82	12	13831																				
+Afghanistan	Parwan	20	588922	51	12	8595																				
+Afghanistan	Parwan	25	588922	46	5	7836																				
+Afghanistan	Parwan	30	588922	20	5	3475																				
+Afghanistan	Parwan	50	588922	9	0	1690																				
+Afghanistan	Parwan	75	588922	3	0	704																				
+Afghanistan	Samangan	10	1126347	421	12	77230																				
+Afghanistan	Samangan	15	1126347	275	11	53985																				
+Afghanistan	Samangan	20	1126347	158	11	33649																				
+Afghanistan	Samangan	25	1126347	152	9	32598																				
+Afghanistan	Samangan	30	1126347	137	9	29963																				
+Afghanistan	Samangan	50	1126347	81	3	18628																				
+Afghanistan	Samangan	75	1126347	35	0	8527																				
+Afghanistan	Sari Pul	10	1600069	994	202	178674																				
+Afghanistan	Sari Pul	15	1600069	630	165	117474																				
+Afghanistan	Sari Pul	20	1600069	421	162	79965																				
+Afghanistan	Sari Pul	25	1600069	333	144	64658																				
+Afghanistan	Sari Pul	30	1600069	207	137	42377																				
+Afghanistan	Sari Pul	50	1600069	101	24	22493																				
+Afghanistan	Sari Pul	75	1600069	30	2	7503																				
+Afghanistan	Takhar	10	1233684	7602	2616	1326030																				
+Afghanistan	Takhar	15	1233684	4092	2311	759161																				
+Afghanistan	Takhar	20	1233684	3776	2272	710154																				
+Afghanistan	Takhar	25	1233684	3557	1980	676424																				
+Afghanistan	Takhar	30	1233684	3245	1903	625444																				
+Afghanistan	Takhar	50	1233684	2213	1174	459869																				
+Afghanistan	Takhar	75	1233684	1126	471	251060																				
+Afghanistan	Uruzgan	10	1286394	574	0	98171																				
+Afghanistan	Uruzgan	15	1286394	1	0	125																				
+Afghanistan	Uruzgan	20	1286394	1	0	125																				
+Afghanistan	Uruzgan	25	1286394	1	0	125																				
+Afghanistan	Uruzgan	30	1286394	0	0	109																				
+Afghanistan	Uruzgan	50	1286394	0	0	64																				
+Afghanistan	Uruzgan	75	1286394	0	0	0																				
+Afghanistan	Wardak	10	892321	1273	1	208541																				
+Afghanistan	Wardak	15	892321	13	0	2267																				
+Afghanistan	Wardak	20	892321	10	0	1785																				
+Afghanistan	Wardak	25	892321	10	0	1732																				
+Afghanistan	Wardak	30	892321	3	0	480																				
+Afghanistan	Wardak	50	892321	2	0	274																				
+Afghanistan	Wardak	75	892321	0	0	50																				
+Afghanistan	Zabul	10	1732567	231	0	40159																				
+Afghanistan	Zabul	15	1732567	0	0	22																				
+Afghanistan	Zabul	20	1732567	0	0	0																				
+Afghanistan	Zabul	25	1732567	0	0	0																				
+Afghanistan	Zabul	30	1732567	0	0	0																				
+Afghanistan	Zabul	50	1732567	0	0	0																				
+Afghanistan	Zabul	75	1732567	0	0	0																				
+Akrotiri and Dhekelia	Akrotiri	10	10918	1156	535	184547																				
+Akrotiri and Dhekelia	Akrotiri	15	10918	818	435	132995																				
+Akrotiri and Dhekelia	Akrotiri	20	10918	708	413	116871																				
+Akrotiri and Dhekelia	Akrotiri	25	10918	475	390	81216																				
+Akrotiri and Dhekelia	Akrotiri	30	10918	415	365	72613																				
+Akrotiri and Dhekelia	Akrotiri	50	10918	304	227	56697																				
+Akrotiri and Dhekelia	Akrotiri	75	10918	166	132	33768																				
+Akrotiri and Dhekelia	Dhekelia	10	12530	60	28	10418																				
+Akrotiri and Dhekelia	Dhekelia	15	12530	57	23	9832																				
+Akrotiri and Dhekelia	Dhekelia	20	12530	52	23	9030																				
+Akrotiri and Dhekelia	Dhekelia	25	12530	48	21	8584																				
+Akrotiri and Dhekelia	Dhekelia	30	12530	41	18	7465																				
+Akrotiri and Dhekelia	Dhekelia	50	12530	32	11	6169																				
+Akrotiri and Dhekelia	Dhekelia	75	12530	19	4	3830																				
+Albania	Berat	10	181584	54179	46361	10091008																				
+Albania	Berat	15	181584	50266	42322	9706600																				
+Albania	Berat	20	181584	48572	41711	9524237																				
+Albania	Berat	25	181584	45001	40359	9149971																				
+Albania	Berat	30	181584	39874	38276	8617521																				
+Albania	Berat	50	181584	32147	27525	7673853																				
+Albania	Berat	75	181584	20906	13320	5602070																				
+Albania	Dibër	10	261413	93926	77367	22505921																				
+Albania	Dibër	15	261413	87092	71971	21713800																				
+Albania	Dibër	20	261413	84918	70740	21456279																				
+Albania	Dibër	25	261413	81139	68666	21033909																				
+Albania	Dibër	30	261413	76530	65421	20524387																				
+Albania	Dibër	50	261413	64426	50457	18916709																				
+Albania	Dibër	75	261413	44073	22542	14675661																				
+Albania	Durrës	10	77971	14697	14293	2355650																				
+Albania	Durrës	15	77971	13701	12969	2264451																				
+Albania	Durrës	20	77971	13225	12721	2221333																				
+Albania	Durrës	25	77971	12396	12405	2146120																				
+Albania	Durrës	30	77971	11392	11684	2057811																				
+Albania	Durrës	50	77971	9345	7543	1842864																				
+Albania	Durrës	75	77971	5941	2436	1308291																				
+Albania	Elbasan	10	316736	105515	86040	22333124																				
+Albania	Elbasan	15	316736	97192	78451	21505622																				
+Albania	Elbasan	20	316736	94072	76989	21156399																				
+Albania	Elbasan	25	316736	86525	74275	20367757																				
+Albania	Elbasan	30	316736	77432	70211	19447526																				
+Albania	Elbasan	50	316736	62558	50176	17607612																				
+Albania	Elbasan	75	316736	42090	19365	13634951																				
+Albania	Fier	10	187590	16904	18397	2705259																				
+Albania	Fier	15	187590	15597	16287	2575810																				
+Albania	Fier	20	187590	14907	16013	2503886																				
+Albania	Fier	25	187590	13284	15489	2338242																				
+Albania	Fier	30	187590	11528	14462	2153546																				
+Albania	Fier	50	187590	8912	10221	1838949																				
+Albania	Fier	75	187590	5232	5164	1192162																				
+Albania	Gjirokastër	10	289766	69341	57852	12971172																				
+Albania	Gjirokastër	15	289766	64196	52211	12423198																				
+Albania	Gjirokastër	20	289766	62140	51305	12195812																				
+Albania	Gjirokastër	25	289766	58134	49641	11750093																				
+Albania	Gjirokastër	30	289766	52336	46795	11108784																				
+Albania	Gjirokastër	50	289766	41975	32071	9783786																				
+Albania	Gjirokastër	75	289766	28271	11579	7318287																				
+Albania	Korçë	10	372261	101071	78523	23495175																				
+Albania	Korçë	15	372261	92229	71428	22408414																				
+Albania	Korçë	20	372261	88910	70073	21986703																				
+Albania	Korçë	25	372261	83646	66892	21314793																				
+Albania	Korçë	30	372261	78182	63335	20636316																				
+Albania	Korçë	50	372261	64341	45907	18684433																				
+Albania	Korçë	75	372261	43361	17434	14359329																				
+Albania	Kukës	10	240895	87731	72654	20517855																				
+Albania	Kukës	15	240895	80349	67583	19726111																				
+Albania	Kukës	20	240895	78285	66451	19501400																				
+Albania	Kukës	25	240895	75206	64500	19176900																				
+Albania	Kukës	30	240895	70601	61443	18680674																				
+Albania	Kukës	50	240895	59963	48374	17351575																				
+Albania	Kukës	75	240895	42079	24307	13849640																				
+Albania	Lezhë	10	166503	69315	58702	12867515																				
+Albania	Lezhë	15	166503	64501	53327	12396571																				
+Albania	Lezhë	20	166503	62352	52287	12174109																				
+Albania	Lezhë	25	166503	57528	50522	11688519																				
+Albania	Lezhë	30	166503	51793	47776	11095023																				
+Albania	Lezhë	50	166503	41606	31127	9909148																				
+Albania	Lezhë	75	166503	27580	11029	7327719																				
+Albania	Shkodër	10	350539	135144	119594	33164151																				
+Albania	Shkodër	15	350539	127100	111111	32231748																				
+Albania	Shkodër	20	350539	123624	109169	31813390																				
+Albania	Shkodër	25	350539	117368	105938	31075029																				
+Albania	Shkodër	30	350539	110103	101500	30216303																				
+Albania	Shkodër	50	350539	93437	77486	27979768																				
+Albania	Shkodër	75	350539	66458	42408	22537892																				
+Albania	Tiranë	10	163689	43145	39677	8527464																				
+Albania	Tiranë	15	163689	40425	36584	8276967																				
+Albania	Tiranë	20	163689	39223	35985	8161185																				
+Albania	Tiranë	25	163689	36685	35173	7925431																				
+Albania	Tiranë	30	163689	33367	33165	7615321																				
+Albania	Tiranë	50	163689	28279	23855	7046424																				
+Albania	Tiranë	75	163689	19206	9972	5457982																				
+Albania	Vlorë	10	264589	47946	43347	9014666																				
+Albania	Vlorë	15	264589	44234	39141	8620929																				
+Albania	Vlorë	20	264589	42863	38453	8468962																				
+Albania	Vlorë	25	264589	39738	37272	8131617																				
+Albania	Vlorë	30	264589	35543	34949	7666093																				
+Albania	Vlorë	50	264589	27859	24091	6672253																				
+Albania	Vlorë	75	264589	18629	11252	4960005																				
+Algeria	Adrar	10	26936815	0	0	0																				
+Algeria	Adrar	15	26936815	0	0	0																				
+Algeria	Adrar	20	26936815	0	0	0																				
+Algeria	Adrar	25	26936815	0	0	0																				
+Algeria	Adrar	30	26936815	0	0	0																				
+Algeria	Adrar	50	26936815	0	0	0																				
+Algeria	Adrar	75	26936815	0	0	0																				
+Algeria	Alger	10	76916	4577	3504	722674																				
+Algeria	Alger	15	76916	4055	3252	652164																				
+Algeria	Alger	20	76916	3737	3184	607903																				
+Algeria	Alger	25	76916	3395	2785	560499																				
+Algeria	Alger	30	76916	3234	2699	538128																				
+Algeria	Alger	50	76916	1962	1447	362224																				
+Algeria	Alger	75	76916	715	666	153285																				
+Algeria	Annaba	10	141162	58531	55344	11666793																				
+Algeria	Annaba	15	141162	56102	52555	11276803																				
+Algeria	Annaba	20	141162	54493	52221	11026539																				
+Algeria	Annaba	25	141162	52928	51098	10781985																				
+Algeria	Annaba	30	141162	50383	49031	10389430																				
+Algeria	Annaba	50	141162	40126	35887	8800491																				
+Algeria	Annaba	75	141162	23183	18842	5510292																				
+Algeria	Aïn Defla	10	454705	90671	40547	16621202																				
+Algeria	Aïn Defla	15	454705	77090	35288	14300757																				
+Algeria	Aïn Defla	20	454705	74087	34644	13780902																				
+Algeria	Aïn Defla	25	454705	66410	25695	12380957																				
+Algeria	Aïn Defla	30	454705	62056	24668	11609891																				
+Algeria	Aïn Defla	50	454705	37531	13901	7497672																				
+Algeria	Aïn Defla	75	454705	16477	6883	3611850																				
+Algeria	Aïn Témouchent	10	240162	4448	1733	682936																				
+Algeria	Aïn Témouchent	15	240162	3476	1342	544208																				
+Algeria	Aïn Témouchent	20	240162	3149	1243	496100																				
+Algeria	Aïn Témouchent	25	240162	2049	715	331848																				
+Algeria	Aïn Témouchent	30	240162	1897	681	309068																				
+Algeria	Aïn Témouchent	50	240162	826	191	148463																				
+Algeria	Aïn Témouchent	75	240162	195	42	38888																				
+Algeria	Batna	10	1213853	35829	6255	7960576																				
+Algeria	Batna	15	1213853	22209	5076	5123928																				
+Algeria	Batna	20	1213853	20486	4878	4747263																				
+Algeria	Batna	25	1213853	19580	2015	4548282																				
+Algeria	Batna	30	1213853	15320	1921	3587852																				
+Algeria	Batna	50	1213853	9195	570	2126306																				
+Algeria	Batna	75	1213853	3942	86	900436																				
+Algeria	Biskra	10	2150052	339	8	70830																				
+Algeria	Biskra	15	2150052	137	1	29397																				
+Algeria	Biskra	20	2150052	96	0	20489																				
+Algeria	Biskra	25	2150052	93	0	19720																				
+Algeria	Biskra	30	2150052	35	0	6161																				
+Algeria	Biskra	50	2150052	1	0	89																				
 Algeria	Biskra	75	2150052	0	0	0																				
 Algeria	Blida	10	148184	57354	42416	10455392																				
 Algeria	Blida	15	148184	53491	39618	9926335																				
