@@ -110,7 +110,7 @@ def update_charts(country, start_date, end_date):
                 "x": filtered_data["Date"],
                 "y": filtered_data["AverageTemperature"],
                 "type": "lines",
-                "hovertemplate": "%{y:.2f}°C<extra></extra>",
+                "hovertemplate": "%{x}: %{y:.2f}°C<extra></extra>",
             },
         ],
         "layout": {
@@ -131,6 +131,7 @@ def update_charts(country, start_date, end_date):
                 "x": filtered_data["Date"],
                 "y": filtered_data["AverageTemperatureUncertainty"],
                 "type": "lines",
+                "hovertemplate": "%{x}: %{y}<extra></extra>",
             },
         ],
         "layout": {
