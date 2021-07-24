@@ -2,3 +2,4 @@ pandas==1.2.4
 tweepy==3.10.0
 pyyaml==5.4.1
 pytrends==4.7.3
+dash==1.21.0
